@@ -1,0 +1,50 @@
+
+h1{
+            color: rgb(77, 23, 224);
+            border: 10px solid rgb(5, 1, 1);
+            background-color: rgb(53, 231, 62);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content:  space-evenly;
+     
+}
+body{
+            background-color: #12f5f5;
+            border: 10px solid rgb(5, 1, 1);
+            
+}
+img{
+            border: 10px solid rgb(12, 214, 56);
+            color: azure;
+}
+p{
+            font-family: comic sans ms;
+            font-weight: italic;
+            border: 10px solid rgb(204, 9, 9);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content:  space-evenly;
+     
+}
+ol,ul{
+            font-family: comic sans ms;
+            background-color: azure;
+            border: 10px solid rgb(17, 0, 0);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content:  space-evenly;
+     
+}
+.af{
+    background-color: rgb(231, 53, 142);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-between;
+}
+.grid{
+    background-color:rgb(241, 237, 171);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-evenly;
+   }
+    
